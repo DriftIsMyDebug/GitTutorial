@@ -1,3 +1,4 @@
 First file in repository
 Add a new smth strings in first file
 Line from master branch
+Line from dev branch
